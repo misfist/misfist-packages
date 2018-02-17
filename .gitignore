@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except
+!readme.txt
+!readme.md
+!composer.json
+!.gitignore
