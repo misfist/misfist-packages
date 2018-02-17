@@ -56,11 +56,11 @@
                 "type": "wordpress-theme",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/misfist/misfist-theme/archive/master.zip"
+                    "url": "https://github.com/misfist/misfist/archive/master.zip"
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/misfist/misfist-theme.git",
+                    "url": "https://github.com/misfist/misfist.git",
                     "reference": "master"
                 }
             }
